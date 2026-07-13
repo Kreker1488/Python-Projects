@@ -37,9 +37,11 @@
    git clone https://github.com/ваш-username/sorting-visualizer.git
    cd sorting-visualizer
 3. Установите необходимые библиотеки:
-    pip install matplotlib numpy
+  ```bash
+   pip install matplotlib numpy
 4. Запустите главный файл:
-    python main.py
+  ```bash
+   python main.py
 
 ## Управление
 
