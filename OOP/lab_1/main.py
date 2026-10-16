@@ -39,7 +39,7 @@ p1 = Point2D(10, 12)
 p2 = Point2D(0.5, 11.2)
 
 #__str__ и __repr__
-print(p1.__str__())
+print(p1)
 print(p2.__repr__())
 
 #Методы
